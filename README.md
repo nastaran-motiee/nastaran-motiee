@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Nas</h1>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h1 align="left">Connect with me:</h1>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="left"></h1>
+<h2 align="left">Status</h2>
 
 ###
 
