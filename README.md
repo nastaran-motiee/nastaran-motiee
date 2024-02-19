@@ -1,8 +1,8 @@
-<h1 align="left">Hi 🧞‍♀: I'm Nastaran</h1>
+<h1 align="left">Hi 🧞‍♀ I'm Nastaran</h1>
 
 ###
 
-<p align="left">I'm a Software Engineering Student🦉🌚</p>
+<p align="left">I'm a Software Engineering Student 🌚🦉</p>
 
 ###
 
