@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎡🎡🎡</p>
+<p align="left">I'm a Software Engineer 💡</p>
 
 ###
 
