@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I'm a Software Engineering Student</p>
+<p align="left">🎡🎡🎡</p>
 
 ###
 
