@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm a Software Engineer 🌚🦉</p>
+ ![astronot](./gifs/astronot.gif)
 
 ###
 
