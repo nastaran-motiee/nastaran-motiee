@@ -1,17 +1,12 @@
-<h1 align="left">Hi 🧞‍♀ I'm Nastaran</h1>
+# Hi 🧞‍♀ I'm Nastaran
 
-###
+I'm a Software Engineer 🌚🦉
 
-<p align="left">I'm a Software Engineer 🌚🦉</p>
- ![astronot](./gifs/astronot.gif)
+![Astronaut](./gifs/astronaut500.gif)
+![Planet](./gifs/planet500.gif)
 
-###
+## Languages & Tools
 
-<h2 align="left">Languages and tools</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
    <img src="./icons/android.svg" height="40" width="52" alt="android logo"/>
@@ -32,16 +27,10 @@
   <img src="./icons/java.svg" height="40" width="52" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
 
-###
 
-<h2 align="left">Let's Connect</h2>
+## Let's Connect
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nastaran-motiee-b312b8146/" target="_blank">
+<a href="https://www.linkedin.com/in/nastaran-motiee-b312b8146/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+</a>
