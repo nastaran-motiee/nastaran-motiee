@@ -45,8 +45,8 @@ I'm a Software Engineer 🌚🦉
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52"
         alt="linux logo" />
 </div>
-## Let's Connect
 
+## Let's Connect
 <a href="https://www.linkedin.com/in/nastaran-motiee-b312b8146/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
