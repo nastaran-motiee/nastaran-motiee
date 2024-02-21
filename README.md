@@ -1,8 +1,5 @@
-# Hi 🧞‍♀ I'm Nastaran
-I'm a Software Engineer
-![Astronaut](./gifs/astronaut50.gif)
-![Planet](./gifs/planet100.gif)
-
+# Hi ![Astronaut](./gifs/astronaut50.gif) I'm Nastaran 
+I'm a Software Engineer 🌌
 
 
 ## Languages & Tools
