@@ -1,7 +1,6 @@
-# Hi 👋 I'm Nastaran 
+# Hi![Female avatar](./gifs/blink_emoji_pink50.gif)I'm Nastaran
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
-
 
 ## Languages & Tools
 <div align="left">
