@@ -48,7 +48,4 @@ I'm a Software Engineer
     <a href="https://www.linkedin.com/in/nastaran-motiee/" target="_blank">
         <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
     </a>
-    <a href="https://leetcode.com/nastaran-motiee/" target="_blank">
-        <img src="./icons/leetcode.svg" width="52" height="40" alt="leetcode logo"  />
-    </a>
 </div>
