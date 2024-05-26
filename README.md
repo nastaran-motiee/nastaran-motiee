@@ -1,9 +1,9 @@
 
-# Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif)
-![Female avatar](./gifs/mygif.PNG)
-I'm a Software Engineer 
-![Astronaut](./gifs/astronaut50.gif) 
-
+<div align="center">
+    <img src="./gifs/mygif.PNG" 
+        alt="react Female avatar" />
+</div>
+    
 ## Languages & Tools
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"
