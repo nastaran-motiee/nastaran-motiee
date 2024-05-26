@@ -1,14 +1,14 @@
 
 # Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif)
 
-
+<img src= "gifs/me.PNG" alt="me" />
         
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
 
 ## Languages & Tools
 <div align="left">
-    <img src=./gifs/me.PNG" height="40" width="52" alt="me" />
+ 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"
         alt="react logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52"
