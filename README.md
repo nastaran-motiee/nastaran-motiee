@@ -1,4 +1,8 @@
+<img src=./gifs/me.PNG" height="40" width="52" alt="me" />
 # Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif)![Me](./gifs/me.PNG)
+
+
+        
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
 
