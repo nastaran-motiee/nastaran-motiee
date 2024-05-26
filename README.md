@@ -1,5 +1,6 @@
 
 # Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif)
+![Female avatar](./gifs/mygif.PNG)
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
 
