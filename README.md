@@ -1,4 +1,4 @@
-# Hi![Female avatar](./gifs/blink_emoji_pink50.gif)I'm Nastaran
+# Hi![Female avatar](./gifs/blink_emoji_pink50.gif)I'm Nas
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
 
