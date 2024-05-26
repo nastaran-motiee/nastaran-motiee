@@ -1,4 +1,4 @@
-# Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif) ![Me](./gifs/me.gif)
+# Hi 👋🏼 I'm Nas ![Female avatar](./gifs/blink_emoji_pink50.gif)
 I'm a Software Engineer 
 ![Astronaut](./gifs/astronaut50.gif) 
 
