@@ -43,6 +43,8 @@
         alt="vscode logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52"
         alt="linux logo" />
+    <img src="./icons/csharp.svg" height="40" width="52"
+        alt="csharp logo" />
 </div>
 
 ## Let's Connect
