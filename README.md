@@ -48,8 +48,9 @@
 </div>
 
 ## Let's Connect
-<div align="left"> 
-    <a href="https://www.linkedin.com/in/nastaran-motiee/" target="_blank">
-        <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
-    </a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div align="left">    
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nastaran-motiee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/nastaran-motiee?trk=profile-badge">Nastaran Motiee</a></div>            
 </div>
+
+
