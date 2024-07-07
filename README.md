@@ -1,4 +1,11 @@
 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light"
+        data-type="HORIZONTAL" data-vanity="nastaran-motiee" data-version="v1">
+        <a class="badge-base__link LI-simple-link"
+            href="https://il.linkedin.com/in/nastaran-motiee?trk=profile-badge">s</a>
+    </div>
+
+
 <div align="center">
     <img src="./gifs/mygif.PNG" 
         alt="react Female avatar" />
@@ -53,4 +60,9 @@
         <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
     </a>
 </div>
+
+![Github](./index.html)
+![Linkedin](./linkedin-profile-badge.html)
+
+
 
