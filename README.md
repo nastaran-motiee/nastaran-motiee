@@ -2,8 +2,13 @@
     <img src="./gifs/mygif.PNG" 
         alt="react Female avatar" />
 </div>
-    
-## Languages & Tools
+Welcome to my GitHub profile! I'm a passionate developer with a love for learning new technologies and building impactful projects.
+
+## 🚀 About Me
+- 👯 I’m looking to collaborate on open-source projects, especially those related to data science and web development.
+  
+
+## 🛠️ Technologies & Tools
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"
         alt="react logo" />
@@ -46,9 +51,20 @@
         alt="csharp logo" />
 </div>
 
-## Let's Connect
+## 📫 Let's Connect
 <div align="left">    
          <a href="https://www.linkedin.com/in/nastaran-motiee/" target="_blank">
         <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
     </a>
 </div>
+
+
+
+
+
+
+
+## 📈 GitHub Stats
+
+![Nastaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=nastaran-motiee&show_icons=true&theme=radical)
+
