@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
         alt="canva logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52"
         alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
-        width="52" alt="javascript logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
         width="52" alt="postgresql logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52"
@@ -49,6 +47,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
         alt="linux logo" />
     <img src="./icons/csharp.svg" height="40" width="52"
         alt="csharp logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
+        width="52" alt="javascript logo" />
+    <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+   
 </div>
 
 ## 📫 Let's Connect
