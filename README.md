@@ -54,15 +54,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 </div>
 
 ## 📫 Let's Connect
-<div align="left">    
-         <a href="https://www.linkedin.com/in/nastaran-motiee/" target="_blank">
-        <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
-    </a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nastaran-motiee" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/nastaran-motiee?trk=profile-badge">Nastaran Motiee</a>
 </div>
-
-
-
-
+              
 
 
 
