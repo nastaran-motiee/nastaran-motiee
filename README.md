@@ -2,10 +2,10 @@
     <img src="./gifs/mygif.PNG" 
         alt="react Female avatar" />
 </div>
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning new technologies and building impactful projects.
+Welcome to my GitHub profile! I'm a software engineer and lifelong learner, always passionate about exploring new ideas.
 
 ## 🚀 About Me
-- 👯 I’m looking to collaborate on open-source projects, especially those related to data science and web development.
+👯 I’m looking to collaborate on open-source projects, especially those related to data science and web development.
   
 
 ## 🛠️ Technologies & Tools
@@ -54,10 +54,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 </div>
 
 ## 📫 Let's Connect
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nastaran-motiee" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/nastaran-motiee?trk=profile-badge">Nastaran Motiee</a>
+<div align="left">    
+         <a href="https://www.linkedin.com/in/nastaran-motiee/" target="_blank">
+        <img src="./icons/linkedin.svg" width="52" height="40" alt="linkedin logo"/>
+    </a>
 </div>
-              
+
 
 
 
