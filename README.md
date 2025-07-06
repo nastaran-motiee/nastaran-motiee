@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a software engineer and lifelong learner, alwa
         alt="csharp logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
         width="52" alt="javascript logo" />
-    <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+    <img width="52" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
    
 </div>
 
